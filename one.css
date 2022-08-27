@@ -6,7 +6,7 @@
 .header
 {
  height:100%;
- background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("C:/Users/Akshya/Downloads/main project1/travel_site_img/2.jpg");
+ background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("travel_site_img/2.jpg");
  background-size:cover;
  background-position:center;
  background-attachment:fixed;
